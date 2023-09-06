@@ -1,2 +1,3 @@
 update lan 1 với triều
 up past 2
+up part 3
