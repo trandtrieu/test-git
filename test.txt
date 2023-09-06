@@ -1,1 +1,1 @@
-update lan 1
+update lan 1 với triều
